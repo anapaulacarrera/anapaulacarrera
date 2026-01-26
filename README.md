@@ -6,15 +6,24 @@ I'm Ana Carrera!
 
 ### I'm Currently Learning 💻
 **The University of Texas at Dallas**
-- CS4375 Introduction to Machine Learning
-- CS4372 Computational Methods for Data Scientists
-- STAT4351 Probability
-- CS4371 Introduction to Big Data Management and Analytics
-- MATH4301 Mathematical Analysis I
+- STAT4475 – Introduction to Statistical Learning
+- STAT4355 – Applied Linear Models
+- STAT4352 – Mathematical Statistics
+- STAT4354 – Numerical and Statistical Computing
+
+**Capstone Project – Industry-Sponsored (STAT4475)**
+
+Partner: Liberty Bankers Insurance Group  
+
+- Industry-sponsored capstone focused on predictive analytics in the insurance domain  
+- Project scope includes analyzing Medicare Supplement insurance policy data  
+- Objectives include examining rate increases and policyholder attributes associated with policy lapse  
+- Intended to support data-driven rate-setting and profitability analysis 
 
 ### About 🇨🇦 Canadian Job Scraper Project  
-__The Automated Job Scraper__ for Canadian Banking & Insurance Companies is a personal project I built to explore the early-career and analytics job market in Canada. 
-The project focuses on collecting and analyzing job postings to better understand role requirements and seniority levels across major Banking & Insurance companies.
+An end-to-end data analytics project analyzing data-related hiring patterns across a targeted set of major Canadian banking and insurance firms. The pipeline collects, cleans, and deduplicates job postings to evaluate hiring volume, seniority distribution, and early-career accessibility, with a focus on Toronto-based roles.
+
+The project combines Python-based data ingestion, cloud storage and querying, and SQL-driven analysis to generate evidence-based insights into the Canadian data job market.
 
 ### Interests 👀
 - Data analytics and applied machine learning
